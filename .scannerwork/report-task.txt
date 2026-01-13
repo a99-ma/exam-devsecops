@@ -1,0 +1,6 @@
+projectKey=atelier-sonarqube-python
+serverUrl=http://localhost:9000
+serverVersion=26.1.0.118079
+dashboardUrl=http://localhost:9000/dashboard?id=atelier-sonarqube-python
+ceTaskId=c6fd1c6d-d0c9-4a74-bb19-1610842edc90
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c6fd1c6d-d0c9-4a74-bb19-1610842edc90
